@@ -1,0 +1,22 @@
+﻿@model Category
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="bg-danger" asp-validation-summary="All"></div>
+<div class="container">
+    <h2>Kategoriyi Düzenle</h2>
+    <br />
+
+    <form asp-controller="Category" asp-action="Edit" method="post">
+        <input type="hidden" asp-for="CategoryId" />
+        <div class="form-group">
+            <label asp-for="Name">Kategori Adı</label>
+            <input asp-for="Name" class="form-control">
+        </div>
+        <a class="btn btn-secondary rounded-pill" asp-controller="Category" asp-action="List"><i class="fas fa-arrow-circle-left"></i>&nbsp;Geri</a>
+        <button type="submit" class="btn btn-primary rounded-pill"><i class="fas fa-save"></i>&nbsp;Değişiklikleri Kaydet</button>
+
+    </form>
+
+</div>

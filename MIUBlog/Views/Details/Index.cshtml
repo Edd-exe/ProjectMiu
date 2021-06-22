@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewData["Title"] = "User Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="bg-transparent bg-secondary">
+    <div class="container ">
+        <div class="card mb-5 bg-info" style="width: 100%;">
+            <div class="card-header">
+                <span class="mb-lg-n4">Projeler</span>
+                <i class="fas fa-cogs ml-lg-n5"></i>
+            </div>
+            <ul class="list-group list-group-flush">
+
+
+                @foreach (Project item in ViewBag.Projects)
+                {
+                    <li class="list-group-item">@item.Title</li>
+                }
+            </ul>
+        </div>
+        <div class="card mb-5 bg-info" style="width: 100%;">
+            <div class="card-header">
+                Bloglar
+            </div>
+            <ul class="list-group list-group-flush">
+
+
+                @foreach (Blog item in ViewBag.Blogs)
+                {
+                    <li class="list-group-item">@item.Title</li>
+                }
+            </ul>
+        </div>
+        <div class="card mb-5 bg-info" style="width: 100%;">
+            <div class="card-header">
+                Tartışmlar
+            </div>
+            <ul class="list-group list-group-flush">
+
+
+                @foreach (Discussion item in ViewBag.Discussions)
+                {
+                    <li class="list-group-item">@item.Title</li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>

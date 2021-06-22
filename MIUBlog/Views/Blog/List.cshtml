@@ -1,0 +1,111 @@
+﻿@model IEnumerable<Blog>
+
+@{
+    ViewData["Title"] = "List";
+}
+@section Css
+{
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css">
+}
+
+@section Scripts
+{
+    <script src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
+
+    <script>
+        $(document).ready( function () {
+            $('#myTable').DataTable();
+        });
+    </script>
+
+}
+
+
+<div class="container mt-3">
+    <div class="bg-primary text-white p-1 m-1 text-center">
+        <h2>Bloglar</h2>
+    </div>
+    <a asp-action="Create" asp-controller="Blog" class="btn btn-primary mb-3 rounded-pill"><i class="fas fa-plus-circle"></i>&nbsp;Yeni Blog</a>
+    <br />
+    <div class="row">
+        <div class="col">
+            @if (Model.Count() > 0)
+            {
+                <table data-page-length='10' id="myTable" class="table table-bordered table-striped mt-3">
+                  
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Görsel</th>
+                                <th>Başlık</th>
+                                <th>Tarih</th>
+                                <th>Onay</th>
+                                <th>Ana Sayfa</th>
+                                <th>Slider</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.BlogId</td>
+                                    <td>
+                                        <img src="~/img/@item.Image" width="100" />
+                                    </td>
+                                    <td>@item.Title</td>
+                                    <td>@item.Date</td>
+                                    <td>
+                                        @if (item.isApproved)
+                                        {
+                                            <i class="fa fa-check" aria-hidden="true"></i>
+                                        }
+                                        else
+                                        {
+                                            <i class="fa fa-times" aria-hidden="true"></i>
+                                        }
+                                    </td>
+                                    <td>
+                                        @if (item.isHome)
+                                        {
+                                            <i class="fa fa-check" aria-hidden="true"></i>
+                                        }
+                                        else
+                                        {
+                                            <i class="fa fa-times" aria-hidden="true"></i>
+                                        }
+                                    </td>
+                                    <td>
+                                        @if (item.isSlider)
+                                        {
+                                            <i class="fa fa-check" aria-hidden="true"></i>
+                                        }
+                                        else
+                                        {
+                                            <i class="fa fa-times" aria-hidden="true"></i>
+                                        }
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-primary btn-sm rounded-circle" asp-controller="Blog" asp-action="Edit" asp-route-id="@item.BlogId"title="Düzelt">
+                                            <i class="fas fa-pen-square"></i>
+                                        </a>
+                                        <a class="btn btn-danger btn-sm rounded-circle" asp-controller="Blog" asp-action="Delete" asp-route-id="@item.BlogId" title="Sil">
+                                            <i class="fas fa-trash-alt"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    }
+                    else
+                    {
+                    <div class="alert alert-danger">
+                        Blog Eklenmemiş
+                    </div>
+                    }
+
+            </div>
+    </div>
+</div>

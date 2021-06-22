@@ -1,0 +1,80 @@
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csprojAssemblyReference.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csprojAssemblyReference.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csprojAssemblyReference.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.deps.json
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog.Entities\obj\Debug\netcoreapp3.1\MIUBlog.Entities.pdb

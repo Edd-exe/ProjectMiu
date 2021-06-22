@@ -1,0 +1,9 @@
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\bin\Debug\netcoreapp3.1\MUIBlog.Core.deps.json
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\bin\Debug\netcoreapp3.1\MUIBlog.Core.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\bin\Debug\netcoreapp3.1\MUIBlog.Core.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\obj\Debug\netcoreapp3.1\MUIBlog.Core.csprojAssemblyReference.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\obj\Debug\netcoreapp3.1\MUIBlog.Core.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\obj\Debug\netcoreapp3.1\MUIBlog.Core.AssemblyInfo.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\obj\Debug\netcoreapp3.1\MUIBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\obj\Debug\netcoreapp3.1\MUIBlog.Core.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MUIBlog.Core\obj\Debug\netcoreapp3.1\MUIBlog.Core.pdb

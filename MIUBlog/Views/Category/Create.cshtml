@@ -1,0 +1,22 @@
+﻿@model Category
+
+@{
+    ViewData["Title"] = "Create";
+}
+<div class="bg-danger" asp-validation-summary="All"></div>
+<div class="container">
+    <h2>Kategori Oluştur </h2>
+    <br />
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <form asp-controller="Category" asp-action="Create" method="post">
+
+        <div class="form-group">
+            <label asp-for="Name">Kategori Adı</label>
+            <input asp-for="Name" class="form-control">
+        </div>
+        <a asp-action="List" class="btn btn-secondary rounded-pill"><i class="fas fa-arrow-circle-left"></i>&nbsp;Geri</a>
+        <button type="submit" class="btn btn-primary rounded-pill"><i class="fas fa-save"></i>&nbsp;Kaydet</button>
+
+    </form>
+
+</div>

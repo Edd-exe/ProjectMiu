@@ -1,0 +1,1498 @@
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\scopedcss\bundle\MIUBlog.WebUI.styles.css
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\samet\Desktop\MIU\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache
+C:\Users\MONSTER\Projects\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Userprofile.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\scopedcss\bundle\MIUBlog.WebUI.styles.css
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Userprofile.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Create.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Delete.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Details.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Edit.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\List.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DiscussionList.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Delete.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Details.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Index.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\List.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectList.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\UserProjectList.cshtml.g.cs
+C:\Users\samet\Desktop\MIUBlog (1)\MIUBlog (1)\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\ParticipantList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Userprofile.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\ParticipantList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\UserProjectList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DiscussionList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Userprofile.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\ParticipantList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\UserProjectList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DiscussionList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Userprofile.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Create.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Delete.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Details.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Edit.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Index.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\List.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Delete.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Details.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Index.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\List.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\ParticipantList.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\UserProjectList.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DiscussionList.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectList.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\UserBlogList.cshtml.g.cs
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gokya\Downloads\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\UserDiscussionList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Userprofile.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\UserBlogList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\UserDiscussionList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\ParticipantList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\UserProjectList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DiscussionList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectList.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\MIUBlogSON2\MIUBlogSON\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\scopedcss\bundle\MIUBlog.WebUI.styles.css
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Userprofile.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\UserBlogList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Create.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Delete.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Details.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Edit.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Index.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\List.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\UserDiscussionList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Delete.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Details.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\List.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\ParticipantList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\UserProjectList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DiscussionList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectList.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+C:\Users\samet\Downloads\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\package.json
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.exe
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.deps.json
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.json
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.runtimeconfig.dev.json
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Business.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.DataAccess.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\bin\Debug\netcoreapp3.1\MIUBlog.Entities.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csprojAssemblyReference.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.AssemblyInfo.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorAssemblyInfo.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.input.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.TagHelpers.output.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorCoreGenerate.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleCreate.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\RoleList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserEdit.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\UserList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Userprofile.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\UserBlogList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\isApprovedMessages.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Update.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Discussion\UserDiscussionList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Delete.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Details.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\Index.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\List.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\ParticipantList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Project\UserProjectList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_BlogList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DiscussionList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectList.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ResultMessage.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Slider.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.Views.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.csproj.CopyComplete
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\staticwebassets\MIUBlog.WebUI.StaticWebAssets.xml
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.dll
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.pdb
+C:\Users\MONSTER\Projects\CSharp\MIUBlog\MIUBlog\MIUBlog\obj\Debug\netcoreapp3.1\MIUBlog.WebUI.genruntimeconfig.cache

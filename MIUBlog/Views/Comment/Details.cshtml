@@ -1,0 +1,60 @@
+﻿@model Comment
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="container">
+    <div class="container">
+        <div class="bg-primary text-white m-1 p-1  text-center">
+            <h2>Yorum Detayı</h2>
+        </div>
+    </div>
+    <div class="bg-danger" asp-validation-summary="All"></div>
+    <form asp-action="Update">
+        <input type="hidden" asp-for="@Model.CommentId" />
+
+        <il>
+
+            @if (Model.BlogId != null)
+            {
+                <il>
+                    <h5>@Model.Blog.Title</h5>
+                </il>
+            }
+            else if (Model.DiscussionId != null)
+            {
+                <il>
+                    <h5> @Model.Discussion.Title</h5>
+                </il>
+
+            }
+            else if (Model.ProjectId != null)
+            {
+                <il>
+                    <h5>@Model.Project.Title</h5>
+                </il>
+
+            }
+
+            <il>
+                <i class="fas fa-user-circle"></i>&nbsp; @Model.ApplicationUser.NormalizedUserName
+            </il>
+            <br />
+            <il>
+                <i class="fas fa-comment"></i>&nbsp;@Model.CommentText
+            </il>
+
+        </il>
+        <br/>
+        <p></p>
+            <div class="form-control">
+                <label asp-for="isApproved">Onayla</label>
+                <input asp-for="isApproved" />
+            </div>
+        <br />
+            <input type="submit" value="Update" class="btn btn-primary btn-sm rounded-pill" />|
+            <a asp-controller="Comment" asp-action="Delete" class=" btn btn-sm btn-danger rounded-pill" asp-route-id="@Model.CommentId"><i class="fas fa-trash-alt"></i>&nbsp; Sil</a>|
+            <a asp-controller="Comment" asp-action="Index" class="btn btn-sm btn-secondary rounded-pill"><i class="fas fa-arrow-circle-left"></i>&nbsp;Geri Dön</a>
+</form>
+</div>
+
+
